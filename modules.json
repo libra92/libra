@@ -1,0 +1,198 @@
+{
+  "ext": [
+    "react_native/FinancialProduct",
+    "react_native/FinancialProductTab",
+    "react_native/CQReBindCardService/CQReBindCard",
+    "react_native/CQReBindCardService/CQEBankCore",
+    "react_native/AccountInfo",
+    "react_native/CQReferrerManager",
+    "react_native/PAFFXFC"
+  ],
+  "sub": {
+    "PAFFFaceCheck": {
+      "tag": "3.2.1",
+      "repo": "http://10.20.11.218/FFProject/PAFFFaceCheck_android.git"
+    },
+    "PAFFFinancialService": {
+      "branch": "release_3.0.0",
+      "repo": "http://10.20.11.218/FFProject/PAFFFinancialService_android.git"
+    },
+    "PAFFLogin": {
+      "branch": "feature_kitchen",
+      "repo": "http://10.20.11.218/FFProject/PAFFLogin_android.git"
+    },
+    "PAFFOCR": {
+      "tag": "release_4.1.0_1.0.0",
+      "repo": "http://10.20.11.218/FFProject/PAFFOCR.git"
+    },
+    "PAFFPopupNotifyManager": {
+      "tag": "2.2.0",
+      "repo": "http://10.20.11.218/FFProject/PAFFPopupNotifyManager_android.git"
+    },
+    "app": {
+      "branch": "release_4.0.0",
+      "repo": "http://10.20.11.218/FFProject/PAFFApp_android.git"
+    },
+    "framework": {
+      "branch": "release_5.2.0",
+      "repo": "http://10.20.11.218/FFProject/PAFFFramework_android.git"
+    },
+    "fmanager_libs": {
+      "branch": "master",
+      "repo": "http://10.20.11.218/FFProject/fmanager_libs.git"
+    },
+    "PAFFLifeCore": {
+      "tag": "1.0.0",
+      "repo": "http://10.20.11.218/FFProject/PAFFLifeCore_android.git"
+    },
+    "react_native": {
+      "branch":"bank_chongqing",
+      "repo": "http://10.20.11.218/FFProject/react_native.git"
+    },
+    "react_native/FinancialProduct/FPEBankCore": {
+      "tag":"release_4.1.0_1.0.0",
+      "repo": "http://10.20.11.218/FFProject/FPEBankCore_rn.git"
+    },
+    "react_native/FinancialProduct/FPCertification": {
+      "tag":"release_4.1.0_1.0.0",
+      "repo": "http://10.20.11.218/FFProject/FPCertification_rn.git"
+    },
+    "react_native/FinancialProduct/FPEBankOpen": {
+      "tag":"release_4.1.0_1.0.0",
+      "repo": "http://10.20.11.218/FFProject/FPEBankOpen_rn.git"
+    },
+    "react_native/FinancialProduct/FPEBankService": {
+      "tag":"release_4.1.0_chongqing_1.0.1",
+      "repo": "http://10.20.11.218/FFProject/FPEBankService_rn.git"
+    },
+    "react_native/FinancialProduct/FPEBankSubProcess": {
+      "tag":"release_4.1.0_1.0.0",
+      "repo": "http://10.20.11.218/FFProject/FPEBankSubProcess_rn.git"
+    },
+    "react_native/FinancialProduct/FPTradePassword": {
+      "tag":"release_4.1.0_1.0.0",
+      "repo": "http://10.20.11.218/FFProject/FPTradePassword_rn.git"
+    },
+    "react_native/FinancialProduct/FPCasher": {
+      "branch":"kitchen_dev",
+      "repo": "http://10.20.11.218/FFProject/FPCasher_rn.git"
+    },
+    "react_native/FinancialProduct/FPFinancialMall": {
+      "tag":"3.1.2",
+      "repo": "http://10.20.11.218/FFProject/FPFinancialMall_rn.git"
+    },
+    "react_native/FinancialProduct/FPRisk": {
+      "branch":"s_release_2.0.0",
+      "repo": "http://10.20.11.218/FFProject/FPRisk_rn.git"
+    },
+    "react_native/PAFFOrder": {
+      "tag": "3.1.1",
+      "repo": "http://10.20.11.218/FFProject/PAFFOrder_rn.git"
+    },
+    "react_native/FinancialProduct/FPResources": {
+      "tag":"1.0.0",
+      "repo": "http://10.20.11.218/FFProject/FPResources_rn.git"
+    },
+    "react_native/PAFFWanLiTong": {
+      "tag": "1.1.0_chongqing",
+      "repo": "http://10.20.11.218/FFProject/PAFFWanLiTong_rn.git"
+    },
+    "react_native/FinancialProduct/FPCore": {
+      "tag":"2.0.17",
+      "repo": "http://10.20.11.218/FFProject/FPCore_rn.git"
+    },
+    "react_native/FinancialProduct/FPZhiNengBao": {
+      "tag":"3.1.2",
+      "repo": "http://10.20.11.218/FFProject/FPZhiNengBao_rn.git"
+    },
+    "react_native/FinancialProduct/FPFinancialCurrent":{
+      "branch":"s_version_3.1.0",
+      "repo":"http://10.20.11.218/FFProject/FPFinancialCurrent_rn.git"
+    },
+    "react_native/FinancialProduct/FPInvestDate":{
+      "branch":"s_version_3.1.0",
+      "repo":"http://10.20.11.218/FFProject/FPInvestDate_rn.git"
+    },
+    "react_native/FinancialProduct/FPFuYing7Hao":{
+      "branch":"s_version_1.1.0",
+      "repo":"http://10.20.11.218/FFProject/FPFuYing7Hao_rn.git"
+    },
+    "react_native/FinancialProduct/FPPluginAdapter":{
+      "tag":"1.1.1",
+      "repo":"http://10.20.11.218/FFProject/FPPluginAdapter_rn.git"
+    },
+    "react_native/FinancialProduct/FPFinancialOrder": {
+      "tag":"1.0.2",
+      "repo": "http://10.20.11.218/FFProject/FPFinancialOrder_rn.git"
+    },
+    "react_native/FinancialProduct/FPBusinessOperation": {
+      "tag": "1.0.2",
+      "repo": "http://10.20.11.218/FFProject/FPBusinessOperation_rn.git"
+    },
+    "react_native/PAFFCarScene": {
+      "tag": "1.3.2",
+      "repo": "http://10.20.11.218/FFProject/PAFFCarScene_rn.git"
+    },
+    "react_native/PAFFLifeBase": {
+      "tag":"1.3.0",
+      "repo": "http://10.20.11.218/FFProject/PAFFLifeBase_rn.git"
+    },
+    "react_native/PAFFCardRecharge": {
+      "tag":"2.0.4",
+      "repo": "http://10.20.11.218/FFProject/PAFFCardRecharge_rn.git"
+    },
+    "react_native/PAFFHouseEvaluation":{
+      "tag":"4.0.2",
+      "repo":"http://10.20.11.218/FFProject/PAFFHouseEvaluation_rn.git"
+    },
+    "react_native/PAFFHomeContainer":{
+      "tag":"3.0.1",
+      "repo":"http://10.20.11.218/FFProject/PAFFHomeContainer_rn.git"
+    },
+    "react_native/PAFFHomePage": {
+      "tag":"3.1.5",
+      "repo": "http://10.20.11.218/FFProject/PAFFHomePage_rn.git"
+    },
+    "react_native/PAFFMessage": {
+      "tag":"4.0.2",
+      "repo": "http://10.20.11.218/FFProject/PAFFMessage_rn.git"
+    },
+    "react_native/PAFFLogin": {
+      "tag": "6.1.2",
+      "repo": "http://10.20.11.218/FFProject/PAFFLogin_rn.git"
+    },
+    "react_native/PAFFPersonalCenter": {
+      "tag":"4.1.2",
+      "repo": "http://10.20.11.218/FFProject/PAFFPersonalCenter_rn.git"
+    },
+    "react_native/PAFFWealthCenter": {
+      "branch":"s_release_tab_2.1.0",
+      "repo": "http://10.20.11.218/FFProject/FWealthCenter_rn.git"
+    },
+    "react_native/HFCommon":{
+      "branch":"release_5.2.0",
+      "repo":"http://10.20.11.218/FFProject/HFCommon.git"
+    },
+    "react_native/PAFFCommon":{
+      "branch":"release_5.2.0",
+      "repo":"http://10.20.11.218/FFProject/PAFFCommon.git"
+    },
+    "react_native/node_modules":{
+      "branch":"release_5.2.0",
+      "repo":"http://10.20.11.218/FFProject/node_modules.git"
+    },
+    "react_native/PAFFTheme": {
+      "tag":"1.0.5",
+      "repo": "http://10.20.11.218/FFProject/PAFFTheme_rn.git"
+    },
+    "react_native/packager": {
+      "branch": "master",
+      "repo": "http://10.20.11.218/FFProject/packager_rn.git"
+    },
+    "react_native/module_configs": {
+      "branch": "master",
+      "repo": "http://10.20.11.218/FFProject/ModuleConfig_rn.git"
+    }
+  },
+  "ver": "2"
+}
